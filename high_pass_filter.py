@@ -21,4 +21,6 @@ while True:
     print(("{:+06.2f}g : {:+06.2f}g : {:+06.2f}g").format(xl, yl, zl))
 
 
+
+
     time.sleep(1.0/50)

@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13bf475f-cca6-45d5-9aa2-f0e9ef35fd4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/velocity_calc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/velocity_calc_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AccelerometerSpeedCalc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AccelerometerSpeedCalc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/high_pass_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/high_pass_filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/velocity_calc.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +25,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Daemonstrator" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ActiveBolsterSmartphone" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.codetest">
     <configuration name="codetest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -102,25 +104,33 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1029" y="537" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1626065230839" />
-    <state x="1060" y="456" key="FileChooserDialogImpl" timestamp="1626072037709">
+    <state x="1060" y="456" key="FileChooserDialogImpl" timestamp="1626152241142">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1060" y="456" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1626072037709" />
-    <state width="2539" height="127" key="GridCell.Tab.0.bottom" timestamp="1626076631677">
+    <state x="1060" y="456" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1626152241142" />
+    <state width="2539" height="127" key="GridCell.Tab.0.bottom" timestamp="1626160092977">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="127" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1626076631677" />
-    <state width="2539" height="127" key="GridCell.Tab.0.center" timestamp="1626076631675">
+    <state width="2539" height="127" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1626160092977" />
+    <state width="2539" height="127" key="GridCell.Tab.0.center" timestamp="1626160092976">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="127" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1626076631675" />
-    <state width="2539" height="127" key="GridCell.Tab.0.left" timestamp="1626076631673">
+    <state width="2539" height="127" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1626160092976" />
+    <state width="2539" height="127" key="GridCell.Tab.0.left" timestamp="1626160092976">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="127" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1626076631673" />
-    <state width="2539" height="127" key="GridCell.Tab.0.right" timestamp="1626076631677">
+    <state width="2539" height="127" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1626160092976" />
+    <state width="2539" height="127" key="GridCell.Tab.0.right" timestamp="1626160092976">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="127" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1626076631677" />
+    <state width="2539" height="127" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1626160092976" />
+    <state x="781" y="343" key="SettingsEditor" timestamp="1626151669165">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="343" key="SettingsEditor/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1626151669165" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1626151538577">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1626151538577" />
   </component>
 </project>
